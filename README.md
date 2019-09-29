@@ -1,4 +1,4 @@
-# CycleDriving-CPA-K-means
+# DrivingCycle-CPA-K-means
 
 using the methods of CPA and K-means to creat a driving cycle about Fuzhou city.
 
